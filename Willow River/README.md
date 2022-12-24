@@ -19,8 +19,8 @@ The calibration period ranges from 1 January 2012 to 31 July 2014, and the valid
 
 ### 2.1 Flow simulation
 
-![willow-flow](https://github.com/Git160/Picture/raw/main/WillowRiver/willow-flow.png)
+![willow-flow](https://github.com/Git160/Picture/raw/main/WillowRiver/willow_flow.png)
 
 ### 2.2 Nitrogen simulation
 
-![willow-n](https://github.com/Git160/Picture/raw/main/WillowRiver/willow-n.png)
+![willow-n](https://github.com/Git160/Picture/raw/main/WillowRiver/willow_n.png)
