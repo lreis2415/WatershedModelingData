@@ -21,8 +21,8 @@ For the daily simulation of flow, the calibration period is from 2012 to 2013, a
 
 ### 2.1 Flow simulation
 
-![zts_flow](https://github.com/Git160/Picture/raw/main/Zhongtianshe/zts_flow.jpg)
+![zts_flow](https://github.com/Git160/Picture/raw/main/Zhongtianshe/zts-flow.jpg)
 
 ### 2.2 Nitrogen simulation
 
-![zts_n](https://github.com/Git160/Picture/raw/main/Zhongtianshe/zts_n.jpg)
+![zts_n](https://github.com/Git160/Picture/raw/main/Zhongtianshe/zts-n.jpg)
