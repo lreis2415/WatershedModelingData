@@ -1,0 +1,4 @@
+weather-sta.cli: written by SWAT+ editor v1.2.3 on 2022-05-05 10:13
+name                           wgn                        pcp                        tmp                        slr                        hmd                        wnd           wnd_dir          atmo_dep  
+sta4512n9188w             451n919w                p451919.pcp                t451919.tmp                s451919.slr                r451919.hmd                w451919.wnd              null              null  
+sta4512n9250w             451n925w                p451925.pcp                t451925.tmp                s451925.slr                r451925.hmd                w451925.wnd              null              null  
