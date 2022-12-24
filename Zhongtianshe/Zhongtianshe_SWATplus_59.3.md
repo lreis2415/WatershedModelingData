@@ -36,7 +36,7 @@ The details of delineating watershed as the following figure shown:
 
    - In order to create HRUs of the whole watershed, select Single/Multiple HRUs - Filter by landuse, soil, slope - 0%, 0%, 0%
 
-<img src="https://github.com/Git160/Picture/raw/main/Zhongtianshe/1.2.jpg" width=50% height=50% />
+<img src="https://github.com/Git160/Picture/raw/main/Zhongtianshe/1.2.jpg" width=70% height=70% />
 
 ## 2. SWAT+ Editor (v1.2.3) & SWAT+ (v59.3)
 
@@ -48,7 +48,7 @@ The details of delineating watershed as the following figure shown:
 
      Import the weather generator data (CSV files). It is noted that "using observed weather data" needs to be selected because the observed weather data is available.
 
-     <img src="https://github.com/Git160/Picture/raw/main/Zhongtianshe/2.1wgn.jpg" width=50% height=50% />
+     <img src="https://github.com/Git160/Picture/raw/main/Zhongtianshe/2.1wgn.jpg" width=60% height=60% />
 
    - Weather Stations:
 
