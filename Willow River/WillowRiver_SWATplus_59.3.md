@@ -38,7 +38,7 @@ The details of delineating watershed as the following figure shown:
 
    - In order to create HRUs of the whole watershed, select Single/Multiple HRUs - Filter by landuse, soil, slope - 0%, 0%, 0%
 
-<img src="https://github.com/Git160/Picture/raw/main/WillowRiver/1.2.png" width=50% height=50% />
+<img src="https://github.com/Git160/Picture/raw/main/WillowRiver/1.2.png" width=70% height=70% />
 
 ## 2. SWAT+ Editor (v1.2.3) & SWAT+ (v59.3)
 
@@ -88,6 +88,7 @@ The details of delineating watershed as the following figure shown:
 ### 2.3 Run SWAT+
 
 1. Run SWAT+ and analyze output
+
 2. Adjust the model parameters to calibrate and validate the model
    - cn2		 			pctchg	          10
    - esco                   abschg              -0.5
