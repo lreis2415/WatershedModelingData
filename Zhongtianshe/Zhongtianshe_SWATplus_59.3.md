@@ -18,7 +18,7 @@ This documentation records details of modeling the Zhongtianshe Watershed by SWA
 
    - Use DEM inversion method with 0.14 of the slope position threshold to create landscape units (LSUs). The ridge threshold is set as the stream threshold, which is the default value.
 
-     <img src="https://github.com/Git160/Picture/raw/main/Zhongtianshe/1.1.3.jpg" alt="1.1.3" style="zoom:40%;" />
+     <img src="https://github.com/Git160/Picture/raw/main/Zhongtianshe/1.1.3.jpg" width=50% height=50% />
 
 The details of delineating watershed as the following figure shown:
 
